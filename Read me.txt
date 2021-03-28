@@ -1,0 +1,10 @@
+In order for the application to function properly, 
+the following must be done
+
+* Package Manager Console :
+      add-migration CreateDb
+      update-database
+
+* Run the application
+
+
